@@ -23,7 +23,7 @@ Here are some of the projects I've been working on:
 
 ## 📞 Get in Touch
 
-- 📧 Email: [franciscodavi327@gmail.com](franciscodavi327@gmail.com)
+- 📧 Email: [franciscodavi327@gmail.com](mailto:franciscodavi327@gmail.com)
 - 📸 Instagram: [2223_davi](https://www.instagram.com/2223_davi/)
 
 Thanks for visiting my profile!
