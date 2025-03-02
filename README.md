@@ -11,12 +11,7 @@ Welcome to my GitHub profile!
 ## 🚀 Skills
 
 - **Languages**: Python, JavaScript, HTML and CSS
-- **Tools**: Git, Vs Code
-
-## 📞 Get in Touch
-
-- 📧 Email: [franciscodavi327@gmail.com](mailto:franciscodavi327@gmail.com)
-- 📸 Instagram: [2223_davi](https://www.instagram.com/2223_davi/)
+- **Tools**: Git and Vs Code
 
 Thanks for visiting my profile!
 
