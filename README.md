@@ -13,14 +13,6 @@ Welcome to my GitHub profile!
 - **Languages**: Python, JavaScript, HTML and CSS
 - **Tools**: Git, Vs Code
 
-## 📂 Projects
-
-Here are some of the projects I've been working on:
-
-- [GoWay](https://github.com/Davi-1903/GoWay): A Website.
-- [Pong-IA](https://github.com/Davi-1903/Pong-IA): A game with neural network.
-- [Expotec-2024](https://github.com/Davi-1903/Expotec-2024): A science fair game.
-
 ## 📞 Get in Touch
 
 - 📧 Email: [franciscodavi327@gmail.com](mailto:franciscodavi327@gmail.com)
