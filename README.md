@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!  Here you’ll find my projects, contributions, and the technologies I’m exploring.
 
+![Snake animation](https://github.com/Davi-1903/Davi-1903/blob/output/github-contribution-grid-snake.svg)
+
 ## 🔭 About Me
 
 - 💻 I'm a web developer.
