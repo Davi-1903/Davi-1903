@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile!  Here you’ll find my projects, contributions, and the technologies I’m exploring.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Davi-1903/Davi-1903/output/snake.svg" alt="Snake animation" />
+</p>
+
 ## 🔭 About Me
 
 - 💻 I'm a web developer.
