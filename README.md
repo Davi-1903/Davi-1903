@@ -1,6 +1,6 @@
 # Hi there, I'm Davi 👋
 
-Welcome to my GitHub profile!  Here you’ll find my projects, contributions, and the technologies I’m exploring.
+Welcome to my GitHub profile! Here you’ll find my projects, contributions, and the technologies I’m exploring.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Davi-1903/Davi-1903/output/snake.svg" alt="Snake animation" />
@@ -19,9 +19,9 @@ Welcome to my GitHub profile!  Here you’ll find my projects, contributions, an
 
 [![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,mysql,sqlite,markdown)](https://skillicons.dev)
 
-### 🌐 Frameworks
+### 🌐 Frameworks & Libraries
 
-[![Frameworks](https://skillicons.dev/icons?i=flask,react)](https://skillicons.dev)
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=flask,react,tailwind)](https://skillicons.dev)
 
 ### ⚒️ Tools
 
