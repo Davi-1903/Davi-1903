@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here you’ll find my projects, contributions, and
 
 ### 🖊️ Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,mysql,sqlite,markdown)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,typescript,nodejs,mysql,sqlite,markdown)](https://skillicons.dev)
 
 ### 🌐 Frameworks & Libraries
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here you’ll find my projects, contributions, and
 
 ### ⚒️ Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,figma,vscode,vite)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,vite,docker)](https://skillicons.dev)
 
 ## 📊 GitHub States
 
