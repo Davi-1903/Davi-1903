@@ -21,11 +21,11 @@ Welcome to my GitHub profile! Here you’ll find my projects, contributions, and
 
 ### 🌐 Frameworks & Libraries
 
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=flask,react,tailwind)](https://skillicons.dev)
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=flask,fastapi,react,tailwind)](https://skillicons.dev)
 
 ### ⚒️ Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,vite,docker)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,vite,docker,ubuntu)](https://skillicons.dev)
 
 ## 📊 GitHub States
 
