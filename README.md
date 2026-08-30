@@ -9,15 +9,14 @@ Welcome to my GitHub profile! Here you’ll find my projects, contributions, and
 ## 🔭 About Me
 
 - 💻 I'm a web developer.
-- 🌱 Currently learning Python, HTML, CSS and JavaScript.
+- 🌱 Currently learning Python and Rust.
 - 🎓 I'm studying computer science for the internet at **IFRN**.
-- 🤝 Open to collaborating on interesting projects
 
 ## 🚀 Skills
 
 ### 🖊️ Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,typescript,nodejs,mysql,sqlite,markdown)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,rust,html,css,javascript,typescript,nodejs,mysql,sqlite,markdown)](https://skillicons.dev)
 
 ### 🌐 Frameworks & Libraries
 
@@ -25,7 +24,7 @@ Welcome to my GitHub profile! Here you’ll find my projects, contributions, and
 
 ### ⚒️ Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,vite,docker,ubuntu)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,figma,vscode,vite,docker,ubuntu,debian)](https://skillicons.dev)
 
 ## 📊 GitHub States
 
