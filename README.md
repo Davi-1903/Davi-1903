@@ -31,7 +31,7 @@ Welcome to my GitHub profile! Here you’ll find my projects, contributions, and
 <p align="center">
     <a href="https://github.com/Davi-1903">
         <img height="200rem" src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-1903&theme=react" alt="Davi-1903's github activity graph"/>
-        <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=Davi-1903&theme=react&show_icons=true&hide_border=false&count_private=true" alt="Davi-1903's Stats"/>
+        <img height="200rem" src="https://github-readme-extended.vercel.app/api?username=Davi-1903&theme=react&show_icons=true&hide_border=false&count_private=true" alt="Davi-1903's Stats"/>
     </a>
 </p>
 
